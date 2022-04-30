@@ -1,0 +1,5 @@
+ami = "ami-0f9fc25dd2506cf6d"
+region = "us-east-1"
+keyname = "kk"
+instanceType = "t2.micro"
+Name = "var-server" 
